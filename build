@@ -1,5 +1,5 @@
 #!/bin/bash
-#echo "Hurray!  Success!"
-echo "Bummer!  Failed!"
-exit 1
+echo "Hurray!  Success!"
+#echo "Bummer!  Failed!"
+exit 0
 
