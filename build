@@ -1,4 +1,4 @@
 #!/bin/bash
-echo Success!
+echo "Hurray!  Success!"
 exit 0
 
